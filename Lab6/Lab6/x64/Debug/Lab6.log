@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Tree.cpp
+  Generating Code...
+C:\Development\EECE-2080C\Lab6\Lab6\Tree.cpp(132): warning C4715: 'Tree::Delete': not all control paths return a value
+C:\Development\EECE-2080C\Lab6\Lab6\Tree.cpp(169): warning C4715: 'Tree::GetLargestSmaller': not all control paths return a value
+  Lab6.vcxproj -> C:\Development\EECE-2080C\Lab6\x64\Debug\Lab6.exe
